@@ -1,10 +1,10 @@
    {
         "development": {
-            "apiUrl": "http://localhost:2368",
-            "contentApiKey": "9fccdb0e4ea5b572e2e5b92942"
+            "apiUrl": "https://lex-blog.herokuapp.com",
+            "contentApiKey": "0adb07e53761559e1054833adc"
         },
         "production": {
-            "apiUrl": "http://localhost:2368",
-            "contentApiKey": "9fccdb0e4ea5b572e2e5b92942"
+            "apiUrl": "https://lex-blog.herokuapp.com",
+            "contentApiKey": "0adb07e53761559e1054833adc"
         }
     }
