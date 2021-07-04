@@ -1,25 +1,25 @@
 module.exports = {
-  siteUrl: "https://ghost-novela-preview.draftbox.co",
+  siteUrl: "https://gatsbyghostnovelastarter93915.gatsbyjs.io/welcome",
   postsPerPage: 12,
-  siteTitleMeta: "Built with Draftbox",
+  siteTitleMeta: "Lex Blog",
   siteDescriptionMeta:
     "Lightning fast, secure front-end for your WordPress or Ghost blog, without coding.",
   shareImageWidth: 1000,
   shareImageHeight: 523,
-  shortTitle: "Built with Draftbox",
+  shortTitle: "Lex Blog",
   siteIcon: "favicon.png",
   backgroundColor: "#e9e9e9",
   themeColor: "#15171A",
-  apiUrl: "https://ghost.theasdfghjkl.com",
+  apiUrl: "https://lex-blog.herokuapp.com",
   header: {
     navigation: [
       {
         label: "Home",
-        url: "https://ghost-novela-preview.draftbox.co/",
+        url: "https://gatsbyghostnovelastarter93915.gatsbyjs.io/",
       },
       {
         label: "Contact",
-        url: "https://ghost-novela-preview.draftbox.co/contact",
+        url: "https://gatsbyghostnovelastarter93915.gatsbyjs.io/contact",
       },
     ],
   },
@@ -28,23 +28,23 @@ module.exports = {
     navigation: [
       {
         label: "Home",
-        url: "https://ghost-novela-preview.draftbox.co/",
+        url: "https://gatsbyghostnovelastarter93915.gatsbyjs.io/",
       },
       {
         label: "Sitemap",
-        url: "https://ghost-novela-preview.draftbox.co/sitemap.xml",
+        url: "https://gatsbyghostnovelastarter93915.gatsbyjs.io/sitemap.xml",
       },
       {
         label: "RSS",
-        url: "https://ghost-novela-preview.draftbox.co/rss.xml",
+        url: "https://gatsbyghostnovelastarter93915.gatsbyjs.io/rss.xml",
       },
       {
         label: "Contact",
-        url: "https://ghost-novela-preview.draftbox.co/contact",
+        url: "https://gatsbyghostnovelastarter93915.gatsbyjs.io/contact",
       },
       {
         label: "External Link",
-        url: "https://spectrum.chat/gatsby-js/themes?tab=posts",
+        url: "https://gatsbyghostnovelastarter93915.gatsbyjs.io/themes?tab=posts",
       },
     ],
   },
