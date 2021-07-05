@@ -1,0 +1,9 @@
+{
+  "hosting": {
+    "site": "blog-lex",
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+    ]
+  }
+}
